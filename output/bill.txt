@@ -1,0 +1,6 @@
+Bill:
+Cola, Price: ₹80.0
+
+Bacon Burger, Price: ₹299.0
+
+Total Amount: ₹379.0
